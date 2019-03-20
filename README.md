@@ -1,4 +1,4 @@
-# test_ke-3
+# vuex_todo_manager
 
 ## Project setup
 ```
