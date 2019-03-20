@@ -1,4 +1,4 @@
-# vuex_todo_manager
+# Vue CRUD sederhana dengan Vuex
 
 ## Project setup
 ```
